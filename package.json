@@ -1,7 +1,7 @@
 {
-  "name": "nest",
+  "name": "fitbit",
   "version": "1.0.0",
-  "description": "nest scriptlet to grab gifs for latest_event on all nest cameras",
+  "description": "fitbit scriptlet to grab sleep data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
