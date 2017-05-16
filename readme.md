@@ -1,5 +1,5 @@
 # nest grabber
-Quick and dirty scriplet using express and nightmare to get nest Oauth 
+Quick and dirty scriplet using express and nightmare to get nest Oauth test
 
 # todo 
 - [ ] Add more possible actions
